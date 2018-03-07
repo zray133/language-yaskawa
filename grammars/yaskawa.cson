@@ -1,0 +1,8 @@
+'scopeName': 'source.yaskawa'
+'name': 'Yaskawa Inform'
+'fileTypes': [
+  'JBI',
+  'DAT',
+  'LST',
+  'CND'
+]

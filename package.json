@@ -1,0 +1,17 @@
+{
+  "name": "language-yaskawa",
+  "version": "0.0.0",
+  "description": "Inform language support for Yaskawa robots in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyHeleine/language-yaskawa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeremyHeleine/language-yaskawa/issues"
+  },
+  "license": "MIT"
+}
